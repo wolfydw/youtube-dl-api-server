@@ -22,7 +22,6 @@ rejecttitle:       Reject downloads for matching titles.
 playlistreverse:   Download playlist items in reverse order.
 subtitlesformat:   The format code for subtitles
 subtitleslangs:    List of languages of the subtitles to download
-allsubtitles:      Downloads all the subtitles of the video
-                   (requires writesubtitles or writeautomaticsub)
+allsubtitles:      Downloads all the subtitles of the video(requires writesubtitles or writeautomaticsub)
 writesubtitles:    Write the video subtitles to a file
 writeautomaticsub: Write the automatically generated subtitles to a file
